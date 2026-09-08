@@ -1,0 +1,9 @@
+/target
+.idea/
+/sub/linux_km/compile_commands.json
+*.ko
+*.o
+*.d
+*.mod*
+modules.order
+Module.symvers
